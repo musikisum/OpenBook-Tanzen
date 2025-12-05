@@ -1,3 +1,11 @@
+Sammlungen
+================
+	Die Suite
+	Nobilis Juventus
+	Wassermusik
+
+Tanz → Komponist
+================
 Allemande
 	Biber
 Amener 
@@ -38,10 +46,47 @@ Sarabande
 Tambourin
 	Rameau
 
-Sammlungen
-	Die Suite
-	Nobilis Juventus
-	Wassermusik
+Komponist → Tanz
+================
+Purcell – The Fairy Queen
+	Chaconne Variationsform
+	Hornpipe AABB
+Bach
+	Courante ABA
+	Gavotte I & II AB-CDC-AB
+	Forlane AB
+	Menuett AB-CD-AB
+	Bourée AB-CDC-AB
+	Passepied I & II AB-CD-AB
+Händel
+	Bourée AB-CD-AB
+	House-Remix AAABAA
+	Rigaudon I & II ABA-CD-ABA
+Rameau
+	Marche "Dance des sauvages“ AABACAA
+	Drum'n'Bass-Remix
+	Tambourin I & II ABA-CD-ABA
+	Dubstep-Remix ABA
+Telemann
+	Badinage aus Suite Nr. 1 AB-CD-AB
+Locatelli
+	Sarabande AB
+	Trap-Remix ABA
+Lully
+	Passacaglia AABBAAAAAAAACDAAAA
+	Techno-Remix
+Dall'Abaco
+	Ciaconna Reihungsform
+Biber
+	Allemande AB
+	Amener AB
+	Hiphop-Remix AAAAAAABBAA
+Muffat
+	Gigue Intro AB
+	Gavotte AB
+	Menuett AB-CD-AB
+	House-Remix Intro-CCAAAADDAAAAAA
+
 
 
  
