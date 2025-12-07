@@ -4,6 +4,26 @@ Sammlungen
 	Nobilis Juventus
 	Wassermusik
 
+Tänze
+================
+Allemande
+Amener 
+Badinage
+Bourree
+Chaconne
+Courante
+Forlane
+Gavotte
+Gigue
+Hornpipe
+Marche
+Menuett
+Passacaglia
+Passepied
+Rigaudon
+Sarabande
+Tambourin
+
 Tanz → Komponist
 ================
 Allemande
